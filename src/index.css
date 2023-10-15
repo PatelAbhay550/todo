@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+li {
+  list-style: square;
+  font-weight: 400;
+  font-family: "Poppins";
+}
+.btn-secondary {
+  background-color: aqua;
+  color: #000;
+}
